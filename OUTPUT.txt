@@ -1,0 +1,11 @@
+nonDynamic(5): 8, took 0us
+nonDynamic(8): 34, took 1us
+nonDynamic(12): 233, took 3us
+nonDynamic(18): 4181, took 49us
+nonDynamic(25): 121393, took 1334us
+
+dynamic(5): 8, took 0us
+dynamic(8): 34, took 0us
+dynamic(12): 233, took 0us
+dynamic(18): 4181, took 0us
+dynamic(25): 121393, took 0us
